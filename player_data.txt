@@ -1,0 +1,8 @@
+kuay,733.31 seconds
+ww,1.16 seconds
+ww,1.32 seconds
+u,1.53 seconds
+u,38.56 seconds
+u,47.92 seconds
+Heisenberg,1.91 seconds
+df,1.76 seconds
